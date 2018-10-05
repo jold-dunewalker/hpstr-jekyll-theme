@@ -5,14 +5,14 @@ reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:              https://jold-dunewalker.github.io/PBF 
+url:              https://jold-dunewalker.github.io/pbf 
 #Local Development URL
 #url:              http://localhost:4000 
 
 # Owner/author information
 owner:
   name:           Jold Dunewalker
-  avatar:         avatar.jpg
+  avatar:         jold.jpg
   bio:            "It's hard to put a leash on a dog once you've put a crown on its head."
   email:          jold.dunewalker@gmail.com
   # Social networking links used in footer. Update and remove as you like.
